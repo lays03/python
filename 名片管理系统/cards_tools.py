@@ -47,6 +47,7 @@ def modify_card(res_dict):
     修改名片
     :return:
     """
+    action_str = ['0', '1', '2', '3', '4']
     while True:
         print("*-*" * 5)
         print("1. 修改name")
@@ -55,17 +56,19 @@ def modify_card(res_dict):
         print("4. 修改email")
         print("0. 退出修改")
         print("*-*" * 5)
-        action = int(input("请选择需要修改的信息："))
-        if action == 1:
+        action = input("请选择需要修改的信息：")
+        if action == action_str[1]:
             res_dict["name"] = input("请输入新的姓名：")
-        elif action == 2:
+        elif action == action_str[2]:
             res_dict["tele"] = input("请输入新的电话号码：")
-        elif action == 3:
+        elif action == action_str[3]:
             res_dict["qq"] = input("请输入新的QQ号码：")
-        elif action == 4:
+        elif action == action_str[4]:
             res_dict["email"] = input("请输入新的邮箱：")
-        else:
+        elif action == action_str[0]:
             break
+        else:
+            print("输入失败，请重新输入！")
     return res_dict
 
 def delete_card(card_list, res_dict):
@@ -73,3 +76,4 @@ def delete_card(card_list, res_dict):
     删除名片
     :return:
     """
+    card_list.pop(card_list.index(res_dict))

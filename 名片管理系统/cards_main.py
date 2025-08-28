@@ -26,26 +26,37 @@ while True:
         search_name = input("请输入您想要查询名片的姓名：")
         res_dict = cards_tools.search_card(card_list, search_name) # 通过姓名查询名片
         if res_dict:
-            print("-*-" * 30)
-            print("查询成功，该人的详细信息为：", end="")
-            print(res_dict)
-            print("1. 修改名片信息")
-            print("2. 删除名片信息")
-            print("0. 取消后续操作")
-            print("-*-" * 30)
-            temp_action = int(input("请选择后续操作："))
-            if temp_action == 1:
-                res_dict = cards_tools.modify_card(res_dict) # 修改名片信息
-                print("修改完成！")
-                print("修改后的信息为：", end="")
-                print(res_dict)
-            elif temp_action == 2:
-                # 通过名片信息确定在系统中的索引
-                # 并根据索引删除名片信息
-                card_list.pop(card_list.index(res_dict))
-                print("删除成功！")
-            else:
-                break
+            print("查询成功，该人的详细信息为：")
+            for header in ["姓名", "电话号码", "QQ号码", "邮箱"]:
+                print(header, end="\t\t")
+            print("")
+            print("=" * 50)
+            print("%s\t\t%s\t\t%s\t\t%s" % (res_dict["name"],
+                                            res_dict["tele"],
+                                            res_dict["qq"],
+                                            res_dict["email"]))
+            print("=" * 50)
+            while True:
+                print("-*-" * 30)
+                print("1. 修改名片信息")
+                print("2. 删除名片信息")
+                print("0. 取消后续操作")
+                print("-*-" * 30)
+                temp_action = input("请选择后续操作：")
+                if temp_action == action_str[1]:
+                    res_dict = cards_tools.modify_card(res_dict) # 修改名片信息
+                    print("修改完成！请选择后续操作")
+                elif temp_action == action_str[2]:
+                    # 通过名片信息确定在系统中的索引
+                    # 并根据索引删除名片信息
+                    cards_tools.delete_card(card_list, res_dict)
+                    # card_list.pop(card_list.index(res_dict))
+                    print("删除成功！请选择后续操作")
+                elif temp_action == action_str[0]:
+                    print("成功取消后续操作")
+                    break
+                else:
+                    print("输入失败，请重新输入！")
         else:
             print("查询失败，系统里查无此人！")
     elif action == action_str[0]:
