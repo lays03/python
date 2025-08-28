@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14d1d6e5-105c-4f74-b1a3-49183422f76c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/笔记/注释.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="14d1d6e5-105c-4f74-b1a3-49183422f76c" name="Changes" comment="08.26">
+      <change afterPath="$PROJECT_DIR$/01_python基础/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_分支/if语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_分支/石头剪刀布.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_循环/九九乘法表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数/def_体验模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数/def_分隔线模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数/multiple_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数/快速体验.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数/打印分隔线.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数/求和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_函数/第一个函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/笔记/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/first/first.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/first.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/注释.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +51,45 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.def_体验模块 (1).executor": "Run",
+    "Python.def_体验模块.executor": "Run",
+    "Python.def_分隔线模块.executor": "Run",
     "Python.first.executor": "Run",
+    "Python.if语句.executor": "Run",
+    "Python.second.executor": "Run",
+    "Python.while循环.executor": "Run",
+    "Python.体验模块.executor": "Run",
+    "Python.快速体验.executor": "Run",
+    "Python.打印分割线.executor": "Run",
+    "Python.求和.executor": "Run",
+    "Python.石头剪刀布.executor": "Run",
+    "Python.第一个函数.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "dev",
-    "last_opened_file_path": "C:/Users/27252/Python-Project",
+    "last_opened_file_path": "C:/Users/27252/Python-Project/04_函数",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.codegpt.services.ollama",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\27252\Python-Project\04_函数" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\27252\Python-Project\04_函数" />
+      <recent name="C:\Users\27252\Python-Project\03_循环" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.def_分隔线模块">
+    <configuration name="求和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,12 +98,104 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first/first.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/求和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="打印分隔线" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\27252\Python-Project\04_函数\打印分隔线.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="第一个函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/第一个函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="def_体验模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/def_体验模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="def_分隔线模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/def_分隔线模块.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.first" />
+        <item itemvalue="Python.def_分隔线模块" />
+        <item itemvalue="Python.def_体验模块" />
+        <item itemvalue="Python.打印分隔线" />
+        <item itemvalue="Python.求和" />
+        <item itemvalue="Python.第一个函数" />
       </list>
     </recent_temporary>
   </component>
@@ -105,14 +235,33 @@
       <workItem from="1756207842892" duration="13000" />
       <workItem from="1756207870770" duration="1156000" />
       <workItem from="1756209146256" duration="215000" />
-      <workItem from="1756209368817" duration="5346000" />
+      <workItem from="1756209368817" duration="23207000" />
     </task>
+    <task id="LOCAL-00001" summary="08.26">
+      <option name="closed" value="true" />
+      <created>1756222921376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756222921376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="08.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="08.26" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Project$first.coverage" NAME="first Coverage Results" MODIFIED="1756222820535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first" />
+    <SUITE FILE_PATH="coverage/Python_Project$while.coverage" NAME="while循环 Coverage Results" MODIFIED="1756279810965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
+    <SUITE FILE_PATH="coverage/Python_Project$second.coverage" NAME="second Coverage Results" MODIFIED="1756274055994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first" />
+    <SUITE FILE_PATH="coverage/Python_Project$def_.coverage" NAME="def_分隔线模块 Coverage Results" MODIFIED="1756282041804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
+    <SUITE FILE_PATH="coverage/Python_Project$def___1_.coverage" NAME="def_体验模块 (1) Coverage Results" MODIFIED="1756282015999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
+    <SUITE FILE_PATH="coverage/Python_Project$if.coverage" NAME="if语句 Coverage Results" MODIFIED="1756275732307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
+    <SUITE FILE_PATH="coverage/Python_Project$first.coverage" NAME="first Coverage Results" MODIFIED="1756273606833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first" />
+    <SUITE FILE_PATH="coverage/Python_Project$.coverage" NAME="体验模块 Coverage Results" MODIFIED="1756281900270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_模块" />
   </component>
 </project>
