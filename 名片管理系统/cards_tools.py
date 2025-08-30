@@ -76,4 +76,4 @@ def delete_card(card_list, res_dict):
     删除名片
     :return:
     """
-    card_list.pop(card_list.index(res_dict))
+    card_list.remove(res_dict)

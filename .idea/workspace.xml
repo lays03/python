@@ -5,25 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14d1d6e5-105c-4f74-b1a3-49183422f76c" name="Changes" comment="08.26">
-      <change afterPath="$PROJECT_DIR$/05_高级变量/01_列表/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/02_元组/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/03_字典/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/03_字典/dict其他操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/03_字典/list_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/04_字符串/str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/04_字符串/str切片.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/04_字符串/str判断方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/04_字符串/str去除空白字符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/04_字符串/str拆分和连接.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/04_字符串/str文本对齐.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/04_字符串/str查找和替换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级变量/05_公共方法/遍历字典的列表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名片管理系统/cards_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/名片管理系统/cards_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_变量进阶/quote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01_python基础/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_python基础/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/笔记/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/名片管理系统/cards_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/名片管理系统/cards_tools.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -54,8 +46,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-vcs.roots.invalid": "Invalid VCS root mapping",
+    "Notification.DoNotAsk-vcs.roots.invalid": "true",
     "Python.card_manage.executor": "Run",
     "Python.cards_main.executor": "Run",
+    "Python.deepseek.executor": "Run",
     "Python.def_体验模块 (1).executor": "Run",
     "Python.def_体验模块.executor": "Run",
     "Python.def_分隔线模块.executor": "Run",
@@ -66,6 +61,8 @@
     "Python.list.executor": "Run",
     "Python.list_dict.executor": "Run",
     "Python.menu.executor": "Run",
+    "Python.quote.executor": "Run",
+    "Python.requests.executor": "Run",
     "Python.second.executor": "Run",
     "Python.str.executor": "Run",
     "Python.str切片.executor": "Run",
@@ -88,13 +85,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "dev",
-    "last_opened_file_path": "C:/Users/27252/Python-Project/04_函数",
+    "last_opened_file_path": "C:/Users/27252/Python-Project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "http.proxy",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -107,30 +104,7 @@
       <recent name="C:\Users\27252\Python-Project\03_循环" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cards_main">
-    <configuration name="打印分隔线" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Project" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\27252\Python-Project\04_函数\打印分隔线.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.requests">
     <configuration name="第一个函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Project" />
       <option name="ENV_FILES" value="" />
@@ -177,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="def_分隔线模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="deepseek" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,12 +160,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/def_分隔线模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deepseek.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,10 +197,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="quote" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_变量进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_变量进阶/quote.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="requests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.requests" />
         <item itemvalue="Python.cards_main" />
+        <item itemvalue="Python.quote" />
         <item itemvalue="Python.first" />
+        <item itemvalue="Python.deepseek" />
       </list>
     </recent_temporary>
   </component>
@@ -252,6 +275,15 @@
       <workItem from="1756207870770" duration="1156000" />
       <workItem from="1756209146256" duration="215000" />
       <workItem from="1756209368817" duration="39003000" />
+      <workItem from="1756524799661" duration="184000" />
+      <workItem from="1756524992067" duration="1480000" />
+      <workItem from="1756526490555" duration="127000" />
+      <workItem from="1756526735177" duration="136000" />
+      <workItem from="1756526892561" duration="678000" />
+      <workItem from="1756527601555" duration="636000" />
+      <workItem from="1756529351993" duration="500000" />
+      <workItem from="1756537597993" duration="246000" />
+      <workItem from="1756537853565" duration="1431000" />
     </task>
     <task id="LOCAL-00001" summary="08.26">
       <option name="closed" value="true" />
@@ -275,11 +307,13 @@
     <SUITE FILE_PATH="coverage/Python_Project$def_.coverage" NAME="def_体验模块 Coverage Results" MODIFIED="1756348833325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/Python_Project$list.coverage" NAME="list Coverage Results" MODIFIED="1756349381471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/01_列表" />
     <SUITE FILE_PATH="coverage/Python_Project$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1756350416911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/03_字典" />
+    <SUITE FILE_PATH="coverage/Python_Project$requests.coverage" NAME="requests Coverage Results" MODIFIED="1756538505866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Project$dict.coverage" NAME="dict其他操作 Coverage Results" MODIFIED="1756350958910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/03_字典" />
-    <SUITE FILE_PATH="coverage/Python_Project$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1756365239225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/名片管理系统" />
+    <SUITE FILE_PATH="coverage/Python_Project$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1756529806417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/名片管理系统" />
     <SUITE FILE_PATH="coverage/Python_Project$str.coverage" NAME="str切片 Coverage Results" MODIFIED="1756354280123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/04_字符串" />
     <SUITE FILE_PATH="coverage/Python_Project$while.coverage" NAME="while循环 Coverage Results" MODIFIED="1756279810965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
     <SUITE FILE_PATH="coverage/Python_Project$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1756349533355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/02_元组" />
+    <SUITE FILE_PATH="coverage/Python_Project$deepseek.coverage" NAME="deepseek Coverage Results" MODIFIED="1756521870728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Project$menu.coverage" NAME="menu Coverage Results" MODIFIED="1756357315131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/名片管理系统" />
     <SUITE FILE_PATH="coverage/Python_Project$second.coverage" NAME="second Coverage Results" MODIFIED="1756274055994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first" />
     <SUITE FILE_PATH="coverage/Python_Project$list_dict.coverage" NAME="list_dict Coverage Results" MODIFIED="1756351280802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/03_字典" />
@@ -287,6 +321,7 @@
     <SUITE FILE_PATH="coverage/Python_Project$def___1_.coverage" NAME="def_体验模块 (1) Coverage Results" MODIFIED="1756282015999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/Python_Project$if.coverage" NAME="if语句 Coverage Results" MODIFIED="1756275732307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
     <SUITE FILE_PATH="coverage/Python_Project$.coverage" NAME="遍历字典的列表 Coverage Results" MODIFIED="1756356960856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/05_公共方法" />
-    <SUITE FILE_PATH="coverage/Python_Project$first.coverage" NAME="first Coverage Results" MODIFIED="1756361683921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_python基础" />
+    <SUITE FILE_PATH="coverage/Python_Project$first.coverage" NAME="first Coverage Results" MODIFIED="1756527453482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_python基础" />
+    <SUITE FILE_PATH="coverage/Python_Project$quote.coverage" NAME="quote Coverage Results" MODIFIED="1756521111687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_变量进阶" />
   </component>
 </project>
