@@ -1,0 +1,7 @@
+def jiecheng(num):
+    if num == 1:
+        return 1
+
+    return num * jiecheng(num - 1)
+
+print(jiecheng(5))

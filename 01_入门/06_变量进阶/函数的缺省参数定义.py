@@ -3,6 +3,7 @@
 def print_info(name, title = "", gender=True):
     """
 
+    :param title: 职位
     :param name: 班上同学的姓名
     :param gender:  True 男生     False 女生
     :return:
