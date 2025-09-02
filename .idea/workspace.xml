@@ -5,62 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14d1d6e5-105c-4f74-b1a3-49183422f76c" name="Changes" comment="08.26">
-      <change afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/元组和字典的拆包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/多值参数案例-计算任意多个数字的和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/缺省参数的注意点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_入门/函数的递归/recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_入门/函数的递归/递归.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_入门/函数的递归/阶乘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/01_第一个面向对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/02_新建两个猫对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/03_设置对象属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/04_在外界设置属性的问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/05_初始化方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/06_利用参数设置属性初始值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/07___del__方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/08___str__方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/面向对象封装案例/士兵突击案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/面向对象封装案例/小明爱跑步.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_面向对象/面向对象封装案例/摆放家具.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/01_封装/09_私有属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/01_不使用继承开发动物和狗.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/02_使用继承开发动物和狗.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/03_继承的传递性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/04_继承的传递性注意事项.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/05_覆盖父类方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/06_扩展父类方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/07_父类的私有属性和私有方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/08_父类的公有方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/09_多继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/10_多继承的使用注意事项.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/11_多态案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_面向对象/02_继承/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/01_python基础/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_分支/if语句.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/02_分支/if语句.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_分支/石头剪刀布.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/02_分支/石头剪刀布.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_循环/九九乘法表.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/03_循环/九九乘法表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_函数/def_体验模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/04_函数/def_体验模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_函数/def_分隔线模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/04_函数/def_分隔线模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_函数/multiple_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/04_函数/multiple_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_函数/快速体验.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/04_函数/快速体验.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_函数/打印分隔线.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/04_函数/打印分隔线.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_函数/求和.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/04_函数/求和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_函数/第一个函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/04_函数/第一个函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/01_列表/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/01_列表/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/02_元组/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/02_元组/tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/03_字典/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/03_字典/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/03_字典/dict其他操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/03_字典/dict其他操作.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/03_字典/list_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/03_字典/list_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/04_字符串/str.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/04_字符串/str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/04_字符串/str切片.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/04_字符串/str切片.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/04_字符串/str判断方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/04_字符串/str判断方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/04_字符串/str去除空白字符.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/04_字符串/str去除空白字符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/04_字符串/str拆分和连接.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/04_字符串/str拆分和连接.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/04_字符串/str文本对齐.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/04_字符串/str文本对齐.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/04_字符串/str查找和替换.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/04_字符串/str查找和替换.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_高级变量/05_公共方法/遍历字典的列表.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/05_高级变量/05_公共方法/遍历字典的列表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/quote.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/quote.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/交换两个数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/交换两个数字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/函数内部通过方法修改可变参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/函数内部通过方法修改可变参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/函数的缺省参数定义.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/函数的缺省参数定义.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/可变和不可变参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/可变和不可变参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/多个返回值.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/多个返回值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/多值参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/多值参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/局部变量和全局变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/局部变量和全局变量.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/缺省参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/缺省参数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_变量进阶/面试题-加等于.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/06_变量进阶/面试题-加等于.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/01_第一个面向对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/01_第一个面向对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/02_新建两个猫对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/02_新建两个猫对象.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/03_设置对象属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/03_设置对象属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/04_在外界设置属性的问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/04_在外界设置属性的问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/05_初始化方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/05_初始化方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/06_利用参数设置属性初始值.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/06_利用参数设置属性初始值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/07___del__方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/07___del__方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/08___str__方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/08___str__方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/面向对象封装案例/士兵突击案例.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/面向对象封装案例/士兵突击案例.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/面向对象封装案例/小明爱跑步.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/面向对象封装案例/小明爱跑步.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_面向对象/面向对象封装案例/摆放家具.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_面向对象/01_封装/面向对象封装案例/摆放家具.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/名片管理系统/cards_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/名片管理系统/cards_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/名片管理系统/cards_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/名片管理系统/cards_tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_入门/note.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,15 +68,27 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Notification.DisplayName-DoNotAsk-vcs.roots.invalid": "Invalid VCS root mapping",
     "Notification.DoNotAsk-vcs.roots.invalid": "true",
+    "Python.01_不使用继承开发动物和狗.executor": "Run",
     "Python.01_定义简单的类.executor": "Run",
     "Python.01_第一个面向对象.executor": "Run",
+    "Python.02_使用继承开发动物和狗.executor": "Run",
     "Python.02_新建两个猫对象.executor": "Run",
+    "Python.03_继承的传递性.executor": "Run",
     "Python.03_设置对象属性.executor": "Run",
     "Python.04_在外界设置属性的问题.executor": "Run",
+    "Python.04_继承的传递性注意事项.executor": "Run",
     "Python.05_初始化方法.executor": "Run",
+    "Python.05_覆盖父类方法.executor": "Run",
     "Python.06_利用参数设置属性初始值.executor": "Run",
+    "Python.06_扩展父类方法.executor": "Run",
     "Python.07___del__方法.executor": "Run",
+    "Python.07_父类的私有属性和私有方法.executor": "Run",
     "Python.08___str__方法.executor": "Run",
+    "Python.08_父类的公有方法.executor": "Run",
+    "Python.09_多继承.executor": "Run",
+    "Python.09_私有属性.executor": "Run",
+    "Python.10_多继承的使用注意事项.executor": "Run",
+    "Python.11_多态案例.executor": "Run",
     "Python.card_manage.executor": "Run",
     "Python.cards_main.executor": "Run",
     "Python.deepseek.executor": "Run",
@@ -164,7 +148,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "http.proxy",
+    "settings.editor.selected.configurable": "configurable.group.python.group.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -174,12 +158,14 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\27252\Python-Project\01_入门" />
+      <recent name="C:\Users\27252\Python-Project\02_面向对象\01_封装" />
+      <recent name="C:\Users\27252\Python-Project\02_面向对象" />
       <recent name="C:\Users\27252\Python-Project\04_函数" />
       <recent name="C:\Users\27252\Python-Project\03_循环" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.士兵突击案例">
-    <configuration name="小明爱跑步" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11_多态案例">
+    <configuration name="07_父类的私有属性和私有方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,12 +174,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象/面向对象封装案例" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象/02_继承" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\27252\Python-Project\02_面向对象\面向对象封装案例\小明爱跑步.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象/02_继承/07_父类的私有属性和私有方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07___del__方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08_父类的公有方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,12 +197,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象/02_继承" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象/07___del__方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象/02_继承/08_父类的公有方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08___str__方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_多继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Project" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,12 +220,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象/02_继承" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象/08___str__方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象/02_继承/09_多继承.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_多继承的使用注意事项" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象/02_继承" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象/02_继承/10_多继承的使用注意事项.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11_多态案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_面向对象/02_继承" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_面向对象/02_继承/11_多态案例.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,11 +397,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.士兵突击案例" />
-        <item itemvalue="Python.摆放家具" />
-        <item itemvalue="Python.小明爱跑步" />
-        <item itemvalue="Python.08___str__方法" />
-        <item itemvalue="Python.07___del__方法" />
+        <item itemvalue="Python.11_多态案例" />
+        <item itemvalue="Python.10_多继承的使用注意事项" />
+        <item itemvalue="Python.09_多继承" />
+        <item itemvalue="Python.08_父类的公有方法" />
+        <item itemvalue="Python.07_父类的私有属性和私有方法" />
       </list>
     </recent_temporary>
   </component>
@@ -406,6 +438,7 @@
       <workItem from="1756537853565" duration="9097000" />
       <workItem from="1756665705932" duration="24000" />
       <workItem from="1756706874417" duration="15501000" />
+      <workItem from="1756787761735" duration="7378000" />
     </task>
     <task id="LOCAL-00001" summary="08.26">
       <option name="closed" value="true" />
@@ -426,35 +459,40 @@
     <option name="LAST_COMMIT_MESSAGE" value="08.26" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Project$02_.coverage" NAME="02_新建两个猫对象 Coverage Results" MODIFIED="1756712397457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象" />
-    <SUITE FILE_PATH="coverage/Python_Project$def_.coverage" NAME="def_体验模块 Coverage Results" MODIFIED="1756348833325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
+    <SUITE FILE_PATH="coverage/Python_Project$02_.coverage" NAME="02_使用继承开发动物和狗 Coverage Results" MODIFIED="1756789413623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
     <SUITE FILE_PATH="coverage/Python_Project$xiaoming.coverage" NAME="小明爱跑步 Coverage Results" MODIFIED="1756717008543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/面向对象封装案例" />
-    <SUITE FILE_PATH="coverage/Python_Project$04_.coverage" NAME="04_在外界设置属性的问题 Coverage Results" MODIFIED="1756713720893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象" />
+    <SUITE FILE_PATH="coverage/Python_Project$def_.coverage" NAME="def_体验模块 Coverage Results" MODIFIED="1756348833325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
+    <SUITE FILE_PATH="coverage/Python_Project$04_.coverage" NAME="04_继承的传递性注意事项 Coverage Results" MODIFIED="1756790024190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
     <SUITE FILE_PATH="coverage/Python_Project$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1756350416911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/03_字典" />
     <SUITE FILE_PATH="coverage/Python_Project$cards_main.coverage" NAME="cards_main Coverage Results" MODIFIED="1756529806417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/名片管理系统" />
     <SUITE FILE_PATH="coverage/Python_Project$str.coverage" NAME="str切片 Coverage Results" MODIFIED="1756354280123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/04_字符串" />
     <SUITE FILE_PATH="coverage/Python_Project$while.coverage" NAME="while循环 Coverage Results" MODIFIED="1756279810965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
     <SUITE FILE_PATH="coverage/Python_Project$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1756349533355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/02_元组" />
+    <SUITE FILE_PATH="coverage/Python_Project$07_.coverage" NAME="07_父类的私有属性和私有方法 Coverage Results" MODIFIED="1756791712767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
     <SUITE FILE_PATH="coverage/Python_Project$menu.coverage" NAME="menu Coverage Results" MODIFIED="1756357315131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/名片管理系统" />
     <SUITE FILE_PATH="coverage/Python_Project$08___str__.coverage" NAME="08___str__方法 Coverage Results" MODIFIED="1756716183978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象" />
     <SUITE FILE_PATH="coverage/Python_Project$recursion.coverage" NAME="recursion Coverage Results" MODIFIED="1756709508845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数的递归" />
+    <SUITE FILE_PATH="coverage/Python_Project$09_.coverage" NAME="09_多继承 Coverage Results" MODIFIED="1756792168972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
+    <SUITE FILE_PATH="coverage/Python_Project$10_.coverage" NAME="10_多继承的使用注意事项 Coverage Results" MODIFIED="1756792510075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
     <SUITE FILE_PATH="coverage/Python_Project$def___1_.coverage" NAME="def_体验模块 (1) Coverage Results" MODIFIED="1756282015999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_函数" />
     <SUITE FILE_PATH="coverage/Python_Project$if.coverage" NAME="if语句 Coverage Results" MODIFIED="1756275732307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_分支" />
     <SUITE FILE_PATH="coverage/Python_Project$first.coverage" NAME="first Coverage Results" MODIFIED="1756527453482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_python基础" />
-    <SUITE FILE_PATH="coverage/Python_Project$03_.coverage" NAME="03_设置对象属性 Coverage Results" MODIFIED="1756713218619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象" />
+    <SUITE FILE_PATH="coverage/Python_Project$03_.coverage" NAME="03_继承的传递性 Coverage Results" MODIFIED="1756789770940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
     <SUITE FILE_PATH="coverage/Python_Project$07___del__.coverage" NAME="07___del__方法 Coverage Results" MODIFIED="1756715881509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象" />
     <SUITE FILE_PATH="coverage/Python_Project$list.coverage" NAME="list Coverage Results" MODIFIED="1756349381471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/01_列表" />
-    <SUITE FILE_PATH="coverage/Python_Project$01_.coverage" NAME="01_第一个面向对象 Coverage Results" MODIFIED="1756712267504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象" />
+    <SUITE FILE_PATH="coverage/Python_Project$01_.coverage" NAME="01_不使用继承开发动物和狗 Coverage Results" MODIFIED="1756788329919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
     <SUITE FILE_PATH="coverage/Python_Project$requests.coverage" NAME="requests Coverage Results" MODIFIED="1756539997873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Project$dict.coverage" NAME="dict其他操作 Coverage Results" MODIFIED="1756350958910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/03_字典" />
-    <SUITE FILE_PATH="coverage/Python_Project$05_.coverage" NAME="05_初始化方法 Coverage Results" MODIFIED="1756715546043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象" />
+    <SUITE FILE_PATH="coverage/Python_Project$05_.coverage" NAME="05_覆盖父类方法 Coverage Results" MODIFIED="1756790770127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
     <SUITE FILE_PATH="coverage/Python_Project$deepseek.coverage" NAME="deepseek Coverage Results" MODIFIED="1756521870728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Project$06_.coverage" NAME="06_利用参数设置属性初始值 Coverage Results" MODIFIED="1756715587750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象" />
+    <SUITE FILE_PATH="coverage/Python_Project$06_.coverage" NAME="06_扩展父类方法 Coverage Results" MODIFIED="1756791109133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
     <SUITE FILE_PATH="coverage/Python_Project$second.coverage" NAME="second Coverage Results" MODIFIED="1756274055994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first" />
     <SUITE FILE_PATH="coverage/Python_Project$_.coverage" NAME="多值参数案例-计算任意多个数字的和 Coverage Results" MODIFIED="1756707212738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_变量进阶" />
+    <SUITE FILE_PATH="coverage/Python_Project$11_.coverage" NAME="11_多态案例 Coverage Results" MODIFIED="1756795040039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
     <SUITE FILE_PATH="coverage/Python_Project$list_dict.coverage" NAME="list_dict Coverage Results" MODIFIED="1756351280802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_高级变量/03_字典" />
     <SUITE FILE_PATH="coverage/Python_Project$card_manage.coverage" NAME="card_manage Coverage Results" MODIFIED="1756357351726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/名片管理系统" />
     <SUITE FILE_PATH="coverage/Python_Project$.coverage" NAME="士兵突击案例 Coverage Results" MODIFIED="1756720954075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/面向对象封装案例" />
     <SUITE FILE_PATH="coverage/Python_Project$quote.coverage" NAME="quote Coverage Results" MODIFIED="1756521111687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_变量进阶" />
+    <SUITE FILE_PATH="coverage/Python_Project$08_.coverage" NAME="08_父类的公有方法 Coverage Results" MODIFIED="1756791773411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_面向对象/02_继承" />
   </component>
 </project>
